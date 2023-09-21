@@ -59,7 +59,7 @@ section > .container{
 
 #banner h1{
     position: absolute;
-    top: 28%;
+    top: 45%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fff;
@@ -68,7 +68,7 @@ section > .container{
 
 #banner span{
     position: absolute;
-    top: 40%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
     color: #fff;
